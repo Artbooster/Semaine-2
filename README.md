@@ -1,12 +1,12 @@
 # Semaine-2
 
-Et voilà une belle semaine de terminé !
+Et voilà une bien belle semaine de terminé !
 
 Les premiers pas dans le monde du code sont assez vacillant mais très intérréssant ! 
 
-J'ai effectué tout les exercices de la Code Academy : 
+J'ai effectué tout les exercices sur le HTML et le CSS de la Code Academy : 
 
-=====> (https://www.codecademy.com/fr/users/Artbooster/achievements)
+https://www.codecademy.com/fr/users/Artbooster/achievements
 
 + Le b.a.-ba du langage HTML
 
